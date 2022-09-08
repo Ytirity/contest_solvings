@@ -1,0 +1,12 @@
+[submodule "_tasks/dataConvertion"]
+	path = _tasks/dataConvertion
+	url = https://github.com/Pohvalister/data_convertion-task.git
+[submodule "_tasks/calculationProcessor"]
+	path = _tasks/calculationProcessor
+	url = https://github.com/Pohvalister/CalculationProcessor.git
+[submodule "_tasks/dictionaryImplementation"]
+	path = _tasks/dictionaryImplementation
+	url = https://github.com/Pohvalister/dictionary-impl.git
+[submodule "LeetCode/2020_september/sourceCode"]
+	path = LeetCode/2020_september/sourceCode
+	url = https://github.com/Pohvalister/LeetCode-challenges.git
